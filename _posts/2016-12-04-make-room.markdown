@@ -10,9 +10,12 @@ categories: wolfzk
 ##[阁楼](https://taishan90.github.io/pages/readme.md)
 
 
-##[露台](./lutai.md)
-##[露台](./2about.md)
+
 ##[露台](https://taishan90.github.io/pages/lutai.md)
+
+
+![serve-sucess]({{"/css/pics/lutai-shuijing.jpg"}})
+
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
