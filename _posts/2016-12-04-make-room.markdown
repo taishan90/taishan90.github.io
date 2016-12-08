@@ -7,8 +7,8 @@ categories: wolfzk
 
 # 房间设计
 
-##[阁楼](https://taishan90.github.io/gelou.md)
+##[阁楼](https://taishan90.github.io/gelou)
 
-###[露台](https://taishan90.github.io/lutai.md)
-###[阁楼卧室](https://taishan90.github.io/gelou_woshi.md)
-###[阁楼客厅](https://taishan90.github.io/gelou_keting.md)
+###[露台](https://taishan90.github.io/lutai)
+###[阁楼卧室](https://taishan90.github.io/gelou_woshi)
+###[阁楼客厅](https://taishan90.github.io/gelou_keting)

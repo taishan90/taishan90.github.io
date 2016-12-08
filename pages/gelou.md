@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /gelou/
 icon: glyphicon-heart
 ---
 #ss

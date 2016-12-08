@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /gelou_keting/
 icon: glyphicon-heart
 ---
 
