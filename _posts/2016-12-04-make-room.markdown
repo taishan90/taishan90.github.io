@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "装修房间!"
+title:  "装修房间"
 date:   2016-12-04 15:14:54
 categories: wolfzk
 ---
 
-# 房间设计
+# 房间设计讨论
 
-##[阁楼](https://taishan90.github.io/gelou)
+##[阁楼整体](https://taishan90.github.io/gelou)
+
+###[阁楼客厅](https://taishan90.github.io/gelou_keting)
+
+###[阁楼卧室](https://taishan90.github.io/gelou_woshi)
 
 ###[露台](https://taishan90.github.io/lutai)
-###[阁楼卧室](https://taishan90.github.io/gelou_woshi)
-###[阁楼客厅](https://taishan90.github.io/gelou_keting)
