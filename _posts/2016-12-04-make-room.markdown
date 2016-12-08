@@ -7,10 +7,21 @@ categories: wolfzk
 
 # 房间设计讨论
 
-##[阁楼整体](https://taishan90.github.io/gelou)
 
-###[阁楼客厅](https://taishan90.github.io/gelou_keting)
 
-###[阁楼卧室](https://taishan90.github.io/gelou_woshi)
+[##阁楼整体](https://taishan90.github.io/gelou)
 
-###[露台](https://taishan90.github.io/lutai)
+[阁楼客厅](https://taishan90.github.io/gelou_keting)
+
+[阁楼卧室](https://taishan90.github.io/gelou_woshi)
+
+[露台](https://taishan90.github.io/lutai)
+
+
+
+[楼下客厅](https://taishan90.github.io/11keting)
+
+[楼下书房](https://taishan90.github.io/11shufang)
+
+
+能否不用墙纸，使用纹理漆

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 阁楼客厅
 permalink: /gelou_keting/
 icon: glyphicon-heart
 ---
@@ -19,3 +19,5 @@ icon: glyphicon-heart
 
 ##卫生间洗衣机会造成噪音？
 ##阁楼客厅和卧室之间的墙成为一体？
+ 。
+用途 客厅 工作间，北面增加西式吧台或者餐台？有饮用水管、冷热水 如果和楼下分开可以单独作为西式厨房＋客厅

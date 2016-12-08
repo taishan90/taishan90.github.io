@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 阁楼卧室
 permalink: /gelou_woshi/
 icon: glyphicon-heart
 ---
@@ -20,3 +20,6 @@ icon: glyphicon-heart
 
 ##卫生间洗衣机会造成噪音？
 ##阁楼客厅和卧室之间的墙成为一体？
+
+
+榻榻米，提供下面储存被子和衣物。
