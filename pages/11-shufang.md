@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 11客厅
-permalink: /11keting/
+permalink: /11shufang/
 icon: glyphicon-heart
 ---
 
