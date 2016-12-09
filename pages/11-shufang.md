@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 11客厅
+title: 11书房
 permalink: /11shufang/
 icon: glyphicon-heart
 ---
