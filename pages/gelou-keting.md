@@ -12,7 +12,8 @@ icon: glyphicon-heart
 ##如果客厅需要增加东侧墙面，需要门吗？
     .不要门、软联、绳子、地中海式彩色门或者圆拱门或者玻璃门增加透光？或者地中海用酒吧半高门？
 ##墙和门如果通透，需要考虑灯光投射不要影响阁楼卧室及楼下卧室门。
-
+#[客厅沙发上方墙面增加玻璃推拉展示柜]http://github.com/taishan90/room/raw/master/jpg/keting-shafashangmianzhangui.jpg
+![客厅沙发上方墙面增加玻璃推拉展示柜2]({{"/css/pics/lutai-shuijing.jpg"}})
 ##不要墙和门投资少
 
 ##不显得空间小
